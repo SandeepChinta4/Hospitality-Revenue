@@ -28,7 +28,7 @@ As a data analyst tasked with this project, you are provided with sample data an
 
 - Developed a new visual using a calendar matrix table for versatile data analysis.
 - Explored various cancellation policies across hotels, noting that most hotels impose no fee if cancelled three months in advance, with charges ranging from 60% to 90% thereafter.
-- Utilized bookmarks and selections for effective page navigation and clear filter functionalities within the dashboard.
+- Utilized clear filter functionality within the dashboard.
 - Implemented consistent color palettes throughout the dashboard design.
 
 ## Key Insights from the Dashboard
